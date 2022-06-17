@@ -15,7 +15,8 @@ Content-Type: application/json
  "to" : "FCM device token",
  "notification" : {
      "body" : "nội dung thông báo",
-     "title": "tiêu đề thông báo"
+     "title": "tiêu đề thông báo",
+     "image": "https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-camera-512.png"
  },
  "data" : {
      "body" : "nôi dung chi tiết",
